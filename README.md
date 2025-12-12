@@ -83,5 +83,5 @@ Explore the interactive visuals & filters
 Review insights + recommendations to understand ad performance gaps
 
 ## Dashboard Overview
-![Blinkit Dashboard Page]()
+![Blinkit Dashboard Page](https://github.com/rajeshchowhan/Meta-Ad-Performance-Dashboard/blob/ebe12198f87f6cd213fdcf3736261ec45f157875/Instagram%20Project.pdf)
 
