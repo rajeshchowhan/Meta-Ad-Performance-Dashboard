@@ -81,3 +81,7 @@ Open Instagram Project.pbix in Power BI Desktop
 Explore the interactive visuals & filters
 
 Review insights + recommendations to understand ad performance gaps
+
+## Dashboard Overview
+![Blinkit Dashboard Page]()
+
