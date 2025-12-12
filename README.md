@@ -83,5 +83,5 @@ Explore the interactive visuals & filters
 Review insights + recommendations to understand ad performance gaps
 
 ## Dashboard Overview
-![Meta Ad Performance Dashboard Page](https://github.com/rajeshchowhan/Meta-Ad-Performance-Dashboard/blob/4dae1070de1df9b128fa75c3793c23f2ed969241/Instagram%20Project.pdf))
+![Meta Ad Performance Dashboard Page](https://github.com/rajeshchowhan/Meta-Ad-Performance-Dashboard/blob/533b811af671994a8b664b75e8eade30de638058/Meta%20Ad%20Dashboard.png)
 
