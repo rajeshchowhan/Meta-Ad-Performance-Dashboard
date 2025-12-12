@@ -9,13 +9,13 @@ It highlights where the funnel leaks, which audiences respond best, and what opt
 
 ## Data Model
 
-Star Schema:
+### Star Schema:
 
 Fact Table: ad_events
 
 event_id, ad_id, user_id, timestamp, event_type, day_of_week, time_of_day
 
-Dimensions:
+### Dimensions:
 
 ads: ad_id, campaign_id, platform, ad_type, target_gender, target_age_group, interests
 
@@ -67,16 +67,6 @@ Video & Story ads outperform static formats
 Peak engagement in afternoon & evening hours
 
 Budget is not optimally aligned with top-performing segments
-
-## Recommendations
-
-Fix conversion leakage → improve landing pages + retarget clickers
-
-Reallocate budget to Video/Stories and top-response demographics
-
-Schedule ads during peak evening windows
-
-Add revenue/ROAS metrics if available
 
 ## Tech Used
 
